@@ -4,10 +4,6 @@ html {
   background-size:cover;
 }
 
-.card{
-  margin-top: 40vh;
-  transform: translateY(-50%);
-}
 
 .mb-5{
   margin-bottom: 10px;
