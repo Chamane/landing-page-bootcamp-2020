@@ -1,0 +1,10 @@
+html {
+  min-height:100%;
+  background:linear-gradient(0deg, rgba(1, 83, 123, 0.3), rgba(1, 83, 123, 0.3)), url("../img/bg.png");
+  background-size:cover;
+}
+
+.card{
+  margin-top: 40vh;
+  transform: translateY(-50%);
+}
